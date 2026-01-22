@@ -152,16 +152,7 @@ const Home = () => {
       {/* Footer */}
       <footer className="bg-white border-t border-gray-100 py-12">
         <div className="max-w-7xl mx-auto px-6">
-          <div className="grid md:grid-cols-3 gap-8 mb-8">
-            <div>
-              <div className="flex items-center space-x-2 mb-4">
-                <Dumbbell className="h-6 w-6" />
-                <span className="text-lg font-bold tracking-tight">EST BODYBUILDING</span>
-              </div>
-              <p className="text-gray-600 text-sm">
-                Eat, Sleep, Train - The lifestyle of champions.
-              </p>
-            </div>
+          <div className="grid md:grid-cols-2 gap-8 mb-8">
             <div>
               <h4 className="font-semibold mb-4 uppercase tracking-wider text-sm">Quick Links</h4>
               <ul className="space-y-2 text-sm text-gray-600">
