@@ -39,17 +39,17 @@ const Home = () => {
             <div className="inline-block">
               <div className="flex items-center justify-center space-x-3 mb-4">
                 <div className="h-px w-12 bg-black"></div>
-                <DumbbellIcon className="h-8 w-8" />
+                <DumbbellIcon className="h-6 w-6 md:h-8 md:w-8" />
                 <div className="h-px w-12 bg-black"></div>
               </div>
             </div>
-            <h1 className="text-7xl md:text-8xl font-bold tracking-tighter leading-none">
+            <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-none px-4">
               EST<br />BODYBUILDING
             </h1>
-            <p className="text-xl md:text-2xl text-gray-600 tracking-wider uppercase font-light">
+            <p className="text-base md:text-xl lg:text-2xl text-gray-600 tracking-wider uppercase font-light px-4">
               Eat · Sleep · Train
             </p>
-            <p className="text-base text-gray-600 max-w-2xl mx-auto leading-relaxed mt-8">
+            <p className="text-sm md:text-base text-gray-600 max-w-2xl mx-auto leading-relaxed mt-8 px-6">
               {brandInfo.description}
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-8">
