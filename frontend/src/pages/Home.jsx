@@ -134,12 +134,9 @@ const Home = () => {
           <p className="text-xl md:text-2xl font-light tracking-wide italic text-gray-300 mb-4">
             A lifestyle. A Journey. A Vision.
           </p>
-          <h2 className="text-4xl md:text-5xl font-bold tracking-tight mb-6">
+          <h2 className="text-4xl md:text-5xl font-bold tracking-tight mb-10">
             Ready to Join the EST Family?
           </h2>
-          <p className="text-gray-300 text-lg mb-10 leading-relaxed">
-            Get your premium EST apparel and represent the lifestyle.
-          </p>
           <Button 
             onClick={scrollToProducts}
             className="bg-white text-black hover:bg-gray-100 transition-all duration-300 px-12 py-6 text-sm uppercase tracking-wider font-medium"
