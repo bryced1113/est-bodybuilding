@@ -118,7 +118,7 @@ const Home = () => {
             </div>
             <div className="text-center space-y-6 p-8 hover:bg-gray-50 transition-colors duration-500 rounded-lg">
               <div className="inline-flex items-center justify-center w-20 h-20 bg-black text-white rounded-full">
-                <Dumbbell className="h-10 w-10" />
+                <DumbbellIcon className="h-10 w-10" />
               </div>
               <h3 className="text-3xl font-bold tracking-tight">TRAIN</h3>
               <p className="text-gray-600 leading-relaxed">
