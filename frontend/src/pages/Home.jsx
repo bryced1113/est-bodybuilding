@@ -39,7 +39,7 @@ const Home = () => {
             <div className="inline-block">
               <div className="flex items-center justify-center space-x-3 mb-4">
                 <div className="h-px w-12 bg-black"></div>
-                <Dumbbell className="h-8 w-8" />
+                <DumbbellIcon className="h-8 w-8" />
                 <div className="h-px w-12 bg-black"></div>
               </div>
             </div>
