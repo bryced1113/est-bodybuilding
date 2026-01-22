@@ -3,22 +3,22 @@
 export const products = [
   {
     id: 1,
-    name: "EST Classic Tee - White",
+    name: "OG EST - White",
     color: "White",
     price: 29.99,
-    description: "Premium cotton T-shirt with EST Bodybuilding branding. Eat, Sleep, Train.",
+    description: "Premium cotton T-shirt with OG EST branding. Eat, Sleep, Train.",
     image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
-    sizes: ["S", "M", "L", "XL", "XXL"],
+    sizes: ["M", "L", "XL", "XXL"],
     inStock: true
   },
   {
     id: 2,
-    name: "EST Classic Tee - Black",
+    name: "OG EST - Black",
     color: "Black",
     price: 29.99,
-    description: "Premium cotton T-shirt with EST Bodybuilding branding. Eat, Sleep, Train.",
+    description: "Premium cotton T-shirt with OG EST branding. Eat, Sleep, Train.",
     image: "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
-    sizes: ["S", "M", "L", "XL", "XXL"],
+    sizes: ["M", "L", "XL", "XXL"],
     inStock: true
   }
 ];
