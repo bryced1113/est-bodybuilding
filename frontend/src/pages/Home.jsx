@@ -137,6 +137,9 @@ const Home = () => {
       {/* CTA Section */}
       <section className="py-24 bg-black text-white">
         <div className="max-w-4xl mx-auto px-6 text-center">
+          <p className="text-xl md:text-2xl font-light tracking-wide italic text-gray-300 mb-4">
+            A lifestyle. A Journey. A Vision.
+          </p>
           <h2 className="text-4xl md:text-5xl font-bold tracking-tight mb-6">
             Ready to Join the EST Family?
           </h2>
