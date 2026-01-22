@@ -78,7 +78,6 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-6">
           <div className="text-center mb-16">
             <h2 className="text-5xl font-bold tracking-tight mb-4">Our Collection</h2>
-            <p className="text-gray-600 text-lg">Premium apparel for dedicated athletes</p>
             <div className="h-1 w-20 bg-black mx-auto mt-6"></div>
           </div>
           <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
