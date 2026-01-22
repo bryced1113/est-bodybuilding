@@ -30,11 +30,11 @@ export const brandInfo = {
   philosophy: [
     {
       title: "EAT",
-      description: "Fuel your body with purpose. Nutrition is the foundation of strength."
+      description: "Fuel your body with purpose. Nutrition is the foundation of strength. Don't miss a meal."
     },
     {
       title: "SLEEP",
-      description: "Recovery is where growth happens. Rest with intention."
+      description: "Recovery is where growth happens. Earn your recovery, own your sleep."
     },
     {
       title: "TRAIN",
