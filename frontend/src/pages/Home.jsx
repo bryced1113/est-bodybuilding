@@ -48,6 +48,11 @@ const Home = () => {
             <p className="text-xl md:text-2xl text-gray-600 tracking-wider uppercase font-light">
               Eat · Sleep · Train
             </p>
+            <div className="py-4">
+              <p className="text-2xl md:text-3xl font-light tracking-wide italic text-gray-700">
+                A lifestyle. A Journey. A Vision.
+              </p>
+            </div>
             <p className="text-base text-gray-500 max-w-2xl mx-auto leading-relaxed">
               {brandInfo.description}
             </p>
