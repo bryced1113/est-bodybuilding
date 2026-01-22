@@ -26,6 +26,7 @@ export const products = [
 export const brandInfo = {
   name: "EST Bodybuilding",
   tagline: "Eat, Sleep, Train",
+  vision: "A lifestyle. A Journey. A Vision.",
   description: "EST Bodybuilding represents a lifestyle dedicated to discipline, commitment, and excellence. Our apparel is designed for those who live by the mantra: Eat, Sleep, Train. Simple, powerful, essential.",
   philosophy: [
     {
