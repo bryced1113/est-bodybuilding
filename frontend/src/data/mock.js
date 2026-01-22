@@ -38,7 +38,7 @@ export const brandInfo = {
     },
     {
       title: "TRAIN",
-      description: "Consistency over intensity. Show up, put in the work, repeat."
+      description: "Discipline over motivation. Show up when others quit, that's what defines you."
     }
   ]
 };
