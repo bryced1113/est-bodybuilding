@@ -1,7 +1,8 @@
 import React from 'react';
 import { Button } from '../components/ui/button';
-import { ChevronDown, Dumbbell, Moon, Utensils } from 'lucide-react';
+import { ChevronDown, Moon, Utensils } from 'lucide-react';
 import ProductCard from '../components/ProductCard';
+import DumbbellIcon from '../components/DumbbellIcon';
 import { products, brandInfo } from '../data/mock';
 
 const Home = () => {
